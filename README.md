@@ -10,4 +10,4 @@ This small project is from my course "Modellierung und Simulation in der Mechatr
 
 This project is about the modeling, simulation and controller design of the CRS 465 robot arm.
 
-It is very interesting. You can find more information in the brief report 
+It is not so difficult to complete but very interesting. You can find more information in the brief report. 
