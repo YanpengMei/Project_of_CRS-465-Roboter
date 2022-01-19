@@ -1,4 +1,4 @@
-# Project_of_CRS-465-Roboter
+# Project of CRS 465 Roboter
 
 Author: Yanpeng Mei
 
